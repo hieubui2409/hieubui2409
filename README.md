@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/buitrunghieu735"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hieu.bt2409@gmail.com"><img src="https://img.shields.io/badge/hieu.bt2409%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: hieu.bt2409@gmail.com" /></a>
+  <a href="mailto:hieu.bt2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/hieubui2409"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.facebook.com/lucas.bui.personal"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://t.me/lucasbui2409"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
