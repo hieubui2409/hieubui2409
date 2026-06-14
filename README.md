@@ -43,7 +43,7 @@
 
 ---
 
-### 🏢 **One Mount Group** &bull; *Senior Software Engineer (R&D / AI)*
+### 🏢 **One Mount Group** &bull; *Software Engineer → Senior Software Engineer (R&D / AI)*
 *Oct 2020 – Present | Hanoi, Vietnam*
 
 <details>
@@ -95,20 +95,20 @@
   - **Tech Stack:** `Golang` `Temporal` `GKE` `Docker` `SAP ERP`
 </details>
 
+<details>
+  <summary><strong>🛒 Sale Tools (B2B2C) & VinID Back Office</strong> <em>(Oct 2020 – Aug 2023)</em></summary>
+  <br>
+
+  - Designed and aggressively optimized critical backend microservices for a large-scale **B2B2C** retail/consumer platform (**Sale Tools** & **VinID Back Office**) using **Java (Spring Boot)** and **Golang**.
+  - Containerized legacy monolith components; managed deployments with **Docker + Kubernetes on GCP**.
+  - Refactored data-access patterns and indexing strategies, reducing critical API response times by **75%**.
+  - Collaborated within a **25–30 developer** agile division with PM, QA, and BA to ship user-centric features for the Vin Group digital ecosystem.
+  - **Tech Stack:** `Java (Spring Boot)` `Golang` `Docker` `Kubernetes` `GCP`
+</details>
+
 ---
 
-### 🏢 **One Mount Group** &bull; *Software Engineer*
-*Oct 2020 – Aug 2023 | Hanoi, Vietnam*
-
-- Designed and aggressively optimized critical backend microservices for a large-scale **B2B2C** retail/consumer platform (**Sale Tools** & **VinID Back Office**) using **Java (Spring Boot)** and **Golang**.
-- Containerized legacy monolith components; managed deployments with **Docker + Kubernetes on GCP**.
-- Refactored data-access patterns and indexing strategies, reducing critical API response times by **75%**.
-- Collaborated within a **25–30 developer** agile division with PM, QA, and BA to ship user-centric features for the Vin Group digital ecosystem.
-- **Tech Stack:** `Java (Spring Boot)` `Golang` `Docker` `Kubernetes` `GCP`
-
----
-
-### 🏢 **Lavina JSC** &bull; *Software Engineer*
+### 🏢 **Luvina** &bull; *Software Engineer*
 *Aug 2019 – Sep 2020 | Hanoi, Vietnam*
 
 - Executed the migration and modernization of critical financial modules from legacy **COBOL** to **Java**, ensuring absolute data integrity and **99% uptime**.
