@@ -197,10 +197,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hieubui2409&theme=react-dark&hide_border=true&bg_color=1e293b&color=00C875&line=00C875&point=ffffff&area=true" alt="Hieu's Activity Graph" width="96%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hieubui2409&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Hieu's Trophies" width="96%" />
-</p>
-
 ---
 
 ## 🎓 EDUCATION
