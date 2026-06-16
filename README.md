@@ -148,8 +148,8 @@
 | :--- | :--- | :--- |
 | **[product-spec](https://github.com/hieubui2409/product-spec)** | AI harness (skills + agents + hooks) for Claude Code that turns partner requirements into a structured, frontmatter-linked, fully **traceable product-spec hierarchy** — closed loop: *Define → Validate → Critique → Update*. | `Python` `Claude Code` |
 | **[human-analyzer](https://github.com/hieubui2409/human-analyzer)** | Clinical-grade **Character Profile Intelligence System** — 6 event-driven modules (evidence scoring T1–T5, psychological case-formulation, growth analysis, content generation) with PII/claim **safety gates** & 700+ tests. | `Python` `Event-Driven` `Knowledge Graph` |
+| **[sdlc-harness](https://github.com/hieubui2409/sdlc-harness-showcase)** &nbsp;·&nbsp; [live demo ↗](https://hieubui2409.github.io/sdlc-harness-showcase/) | A **file-based SDLC discipline for Claude Code**: prose skills/rules guide the agent, while **fail-closed `PreToolUse` hooks** gate every push/PR/ship on real artifacts — **plan → cook → test → ship** with reviewer≠author approval, enforced **red→green TDD** (797 tests + invariants), and an append-only audit trail with actor attribution. *14 hooks · 31 scripts · ~46 `hs:*` skills · 14 agents.* Interactive bilingual (EN/VI) showcase. | `Python` `Claude Code` `MCP` `Hooks` |
 | **Agent Space** 🔒 | Enterprise **8-layer AI Agent Mesh** orchestrating hundreds of distributed agents — Google ADK + MCP with a hybrid Firestore/Redis service registry. *(proprietary / enterprise)* | `Python` `Google ADK` `MCP` `FastAPI` |
-| **sdlc-harness** 🔒 | AI integration into the enterprise **SDLC** — autonomous code review, Jira compliance, and manual-test agents under strict read-only guardrails. *(private)* | `Python` `Claude Code` `MCP` |
 
 ---
 
