@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  📍 Hai Bà Trưng, Hanoi, Vietnam &nbsp;&bull;&nbsp; 💼 7+ Years Experience &nbsp;&bull;&nbsp; 🤖 Enterprise AI Agent Mesh &middot; A2A &middot; MCP
+  📍 Hai Bà Trưng, Hanoi, Vietnam &nbsp;&bull;&nbsp; 💼 7+ Years Experience &nbsp;&bull;&nbsp; 🤖 AI Agent Mesh &middot; IDP/OCR &middot; AI-Driven SDLC &middot; A2A &middot; MCP
 </p>
 
 ---
 
 ## 🚀 PROFESSIONAL SUMMARY
 
-> **Senior AI Engineer & R&D Solution Architect** with **7+ years** designing, architecting, and building high-performance, fault-tolerant backend systems, with deep expertise in **microservices** architecture using **Java, Golang, and Python**. Proven track record as an R&D-focused architect and technical lead, pioneering the design of highly complex, distributed core platforms — including **Enterprise AI Agent Mesh** systems. I specialize in researching and establishing new technical standards for **Agent-to-Agent (A2A)** protocols and **Model Context Protocol (MCP)** integrations — solving unprecedented architectural challenges, pushing the boundaries of LLM capabilities, and architecting fault-tolerant, scalable multi-agent ecosystems from the ground up.
+> **Senior AI Engineer & R&D Solution Architect** with **7+ years** designing, architecting, and building high-performance, fault-tolerant backend systems, with deep expertise in **microservices** architecture using **Java, Golang, and Python**. Proven track record as an R&D-focused architect and technical lead, pioneering complex distributed core platforms — an **Enterprise AI Agent Mesh** orchestrating hundreds of agents, a **vision-LLM Intelligent Document Processing (IDP/OCR)** platform for enterprise finance, and a **two-tier AI-driven SDLC system** with an autonomous agent orchestrator. I specialize in researching and establishing new technical standards for **Agent-to-Agent (A2A)** protocols and **Model Context Protocol (MCP)** integrations — solving unprecedented architectural challenges, pushing the boundaries of LLM capabilities, and architecting fault-tolerant, scalable multi-agent ecosystems from the ground up.
 
 **Top skills:** `Artificial Intelligence (AI)` &middot; `Solution Architecture` &middot; `Agentic AI Development` &middot; `Technical Solution Design` &middot; `System Design`
 
@@ -29,7 +29,7 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **AI / Agentic** | ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) `A2A` `AG-UI` `LLM & Prompt Engineering` |
+| **AI / Agentic** | ![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=flat-square&logo=anthropic&logoColor=white) `A2A` `AG-UI` `Vision-LLM IDP/OCR` `LLM & Prompt Engineering` `LLM Guardrails` |
 | **AI Tooling** | ![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) `Skills / Agents / Hooks` `uv` `Jinja` |
 | **Backend Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white) |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
@@ -48,7 +48,27 @@
 
 > The Vingroup company delivering **unified technology & AI solutions** across the entire corporation. Researching and developing the **group-wide shared AI platform** — defining foundational AI standards, agent-mesh infrastructure, MCP tooling, and reusable AI capabilities adopted across the group's businesses.
 >
-> **Tech:** `Python` `Google ADK` `MCP` `Gemini / Vertex AI` `FastAPI` `Claude Code`
+> **Tech:** `Python` `Google ADK` `MCP` `Gemini / Vertex AI` `FastAPI` `Claude Code` `Claude Agent SDK`
+
+<details>
+  <summary><strong>🧾 AIOP — Enterprise IDP + OCR Platform</strong> <em>(AI in Enterprise Finance)</em></summary>
+  <br>
+
+  - Architected the **document-intake core (IDP/OCR)** of a **13-module Finance Automation Platform** serving **4 business units** — **vision-LLM (Gemini)** extraction of Vietnamese financial documents (VAT invoices, goods receipts, POs, payment requests) with **per-field confidence scoring** and **page-anchor evidence** meeting the 10-year legal audit-retention requirement.
+  - Designed a **config-driven OCR template system** (JSON Schema 2020-12): per-field thresholds, business validators (tax-ID checksum, VAT arithmetic), PII masking, and auto-accept / **HITL** routing — new document types onboard with **zero code changes**, including base→derived template inheritance.
+  - Engineered a **composite confidence engine** (validator → grounding → double-pass → reference-match) plus a **golden-set replay deploy gate** that blocks model/prompt regressions before release — prototype at **~95% field-level accuracy**, **2.8s p95** latency, designed for **1,000+ docs/day**.
+  - **Tech Stack:** `Python` `Gemini vision-LLM` `FastMCP` `PostgreSQL` `Redis` `Camunda` `OpenTelemetry`
+</details>
+
+<details>
+  <summary><strong>⚙️ SDLC Harness + Autonomous Agent Orchestrator</strong> <em>(New AI-Driven SDLC)</em></summary>
+  <br>
+
+  - Built a **two-tier AI-driven SDLC platform** (~130k LOC Python, **~7,900 automated tests**): a governance **harness** forcing AI coding agents through a real pipeline — *plan → code → test → review* — plus an **autonomous orchestrator** running the loop unattended.
+  - Harness: **100+ skills**, **24 specialized subagents**, **59 lifecycle hooks** in three postures (fail-open telemetry/nudge, **fail-closed compliance**), artifact-backed quality gates, **RBAC agent cage**, enforced **red→green TDD**, and a **hash-chained tamper-evident audit trail**.
+  - Orchestrator: a deterministic Python driver treating the LLM as a callable function — **DRIVE / OBSERVE / GATE / INJECT** primitives on `claude-agent-sdk`, **zero-token quality detectors** (confabulation, silent-success, wiring), a **taxonomy-coverage grid engine**, and a self-correcting **critic loop**; **230+ recorded architecture decisions**.
+  - **Tech Stack:** `Python` `Claude Agent SDK` `MCP` `pytest` `SQLite-WAL` `Dual-engine review lanes (Gemini + secondary Claude)`
+</details>
 
 ---
 
@@ -148,8 +168,9 @@
 | :--- | :--- | :--- |
 | **[product-spec](https://github.com/hieubui2409/product-spec)** &nbsp;·&nbsp; [live demo ↗](https://hieubui2409.github.io/product-spec/) | AI harness (skills + agents + hooks) for Claude Code that turns partner requirements into a structured, frontmatter-linked, fully **traceable product-spec hierarchy** — closed loop: *Define → Validate → Critique → Update*. | `Python` `Claude Code` |
 | **[human-analyzer](https://github.com/hieubui2409/human-analyzer)** &nbsp;·&nbsp; [live demo ↗](https://hieubui2409.github.io/human-analyzer/) | Clinical-grade **Character Profile Intelligence System** — 6 event-driven modules (evidence scoring T1–T5, psychological case-formulation, growth analysis, content generation) with PII/claim **safety gates** & 700+ tests. | `Python` `Event-Driven` `Knowledge Graph` |
-| **[sdlc-harness](https://github.com/hieubui2409/sdlc-harness-showcase)** &nbsp;·&nbsp; [live demo ↗](https://hieubui2409.github.io/sdlc-harness-showcase/) | A **file-based SDLC discipline for Claude Code**: prose skills/rules guide the agent, while **fail-closed `PreToolUse` hooks** gate every push/PR/ship on real artifacts — **plan → cook → test → ship** with reviewer≠author approval, enforced **red→green TDD** (797 tests + invariants), and an append-only audit trail with actor attribution. *14 hooks · 31 scripts · ~46 `hs:*` skills · 14 agents.* Interactive bilingual (EN/VI) showcase. | `Python` `Claude Code` `MCP` `Hooks` |
+| **[sdlc-harness](https://github.com/hieubui2409/sdlc-harness-showcase)** &nbsp;·&nbsp; [live demo ↗](https://hieubui2409.github.io/sdlc-harness-showcase/) | A **two-tier AI-driven SDLC platform**. Tier 1 — a file-based discipline for Claude Code: prose skills/rules guide the agent while **fail-closed `PreToolUse` hooks** gate every push/PR/ship on real artifacts, with enforced **red→green TDD** and a hash-chained audit trail. Tier 2 — an **autonomous orchestrator** driving *plan → code → test → review* unattended on `claude-agent-sdk`, with zero-token confabulation/silent-success detectors and a self-correcting critic loop. *100+ `hs:*` skills · 24 agents · 59 hooks · ~7,900 tests · ~130k LOC.* Interactive bilingual (EN/VI) showcase. | `Python` `Claude Agent SDK` `MCP` `Hooks` |
 | **Agent Space** 🔒 | Enterprise **8-layer AI Agent Mesh** orchestrating hundreds of distributed agents — Google ADK + MCP with a hybrid Firestore/Redis service registry. *(proprietary / enterprise)* | `Python` `Google ADK` `MCP` `FastAPI` |
+| **AIOP — IDP/OCR** 🔒 | Enterprise **vision-LLM document processing** platform for finance — per-field confidence, page-anchor audit evidence, golden-set deploy gate, config-driven OCR templates. *(proprietary / enterprise)* | `Python` `Gemini` `FastMCP` `Camunda` |
 
 ---
 
