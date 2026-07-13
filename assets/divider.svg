@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="26" viewBox="0 0 900 26">
+  <defs>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C875" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00C875" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00C875" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="13" x2="900" y2="13" stroke="#1b4635" stroke-width="1"/>
+  <rect x="-200" y="12" width="200" height="2" fill="url(#pulse)">
+    <animate attributeName="x" values="-200;900" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M446 13l4-6 4 6-4 6z" fill="#00C875"/>
+  <circle cx="450" cy="13" r="9" fill="none" stroke="#1b4635" stroke-width="1"/>
+</svg>

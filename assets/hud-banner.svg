@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" font-family="'Cascadia Code','Fira Code','JetBrains Mono',Consolas,monospace">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#00C875" stop-opacity=".16"/>
+      <stop offset="100%" stop-color="#00C875" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C875" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00C875" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00C875" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00C875" stop-opacity=".10"/>
+      <stop offset="100%" stop-color="#00C875" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="neon" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="900" height="230" fill="#0a0f14"/>
+  <rect width="900" height="230" fill="url(#glow)"/>
+
+  <!-- grid -->
+  <g stroke="#123227" stroke-width="1" opacity=".55">
+    <path d="M0 46h900M0 92h900M0 138h900M0 184h900"/>
+    <path d="M75 0v230M150 0v230M225 0v230M300 0v230M375 0v230M450 0v230M525 0v230M600 0v230M675 0v230M750 0v230M825 0v230"/>
+  </g>
+
+  <!-- moving scanline -->
+  <rect x="0" y="-60" width="900" height="60" fill="url(#scan)">
+    <animate attributeName="y" values="-60;230;-60" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00C875" stroke-width="2.5" fill="none" filter="url(#neon)">
+    <path d="M14 34V14h20M866 14h20v20M886 196v20h-20M34 216H14v-20"/>
+  </g>
+
+  <!-- top status bar -->
+  <text x="40" y="30" font-size="11" fill="#3d8a6b" letter-spacing="3">SYS.ONLINE</text>
+  <circle cx="128" cy="26" r="4" fill="#00C875">
+    <animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="860" y="30" font-size="11" fill="#3d8a6b" letter-spacing="2" text-anchor="end">HANOI // VIETNAM · UTC+7</text>
+
+  <!-- name -->
+  <text x="40" y="106" font-size="44" font-weight="bold" fill="#e8f5ef" letter-spacing="4" filter="url(#neon)">BUI TRUNG <tspan fill="#00C875">HIEU</tspan></text>
+
+  <!-- animated role line with cursor -->
+  <text x="40" y="140" font-size="16" fill="#7ddbb4" letter-spacing="2">&gt; SENIOR AI ENGINEER · AI PLATFORM ARCHITECT<tspan fill="#00C875">▊</tspan>
+    <animate attributeName="opacity" values="1;1;.75;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- capability readout -->
+  <g font-size="11.5" fill="#4f9d7d" letter-spacing="1.5">
+    <text x="40" y="172">[ AGENT MESH ]  [ IDP / OCR ]  [ AI-DRIVEN SDLC ]  [ A2A / MCP ]</text>
+  </g>
+
+  <!-- bottom telemetry line -->
+  <g font-size="10.5" fill="#35604d" letter-spacing="1.2">
+    <text x="40" y="205">UPTIME 7+ YRS &#160;·&#160; AGENTS_ORCHESTRATED 100s &#160;·&#160; DISCOVERY &lt;100ms &#160;·&#160; STREAM 10K ev/s</text>
+  </g>
+
+  <!-- radar (agent mesh) -->
+  <g transform="translate(775,120)">
+    <circle r="72" fill="none" stroke="#1b4635" stroke-width="1"/>
+    <circle r="50" fill="none" stroke="#1b4635" stroke-width="1"/>
+    <circle r="28" fill="none" stroke="#1b4635" stroke-width="1"/>
+    <path d="M-72 0H72M0 -72V72" stroke="#123227" stroke-width="1"/>
+    <!-- sweep -->
+    <g>
+      <path d="M0 0L72 0A72 72 0 0 0 62.35 -36Z" fill="url(#sweep)" opacity=".5"/>
+      <line x1="0" y1="0" x2="72" y2="0" stroke="#00C875" stroke-width="1.6" filter="url(#neon)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+    </g>
+    <!-- mesh nodes -->
+    <circle cx="34" cy="-22" r="3.4" fill="#00C875"><animate attributeName="opacity" values=".15;1;.15" dur="5s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="-40" cy="14" r="3" fill="#00C875"><animate attributeName="opacity" values=".15;1;.15" dur="5s" begin="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="-16" cy="-44" r="2.6" fill="#00C875"><animate attributeName="opacity" values=".15;1;.15" dur="5s" begin="1.7s" repeatCount="indefinite"/></circle>
+    <circle cx="18" cy="40" r="3" fill="#00C875"><animate attributeName="opacity" values=".15;1;.15" dur="5s" begin="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="56" cy="26" r="2.4" fill="#00C875"><animate attributeName="opacity" values=".15;1;.15" dur="5s" begin="4.5s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="#00C875" filter="url(#neon)"/>
+  </g>
+</svg>
