@@ -61,7 +61,7 @@
 
   <!-- bottom telemetry line -->
   <g font-size="10.5" fill="#35604d" letter-spacing="1.2">
-    <text x="40" y="205">UPTIME 7+ YRS &#160;·&#160; AGENTS_ORCHESTRATED 100s &#160;·&#160; DISCOVERY &lt;100ms &#160;·&#160; STREAM 10K ev/s</text>
+    <text x="40" y="205">UPTIME 8+ YRS &#160;·&#160; AGENTS_ORCHESTRATED 100s &#160;·&#160; DISCOVERY &lt;100ms &#160;·&#160; STREAM 10K ev/s</text>
   </g>
 
   <!-- radar (agent mesh) -->
