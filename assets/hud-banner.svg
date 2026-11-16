@@ -50,7 +50,7 @@
   <text x="40" y="106" font-size="44" font-weight="bold" fill="#e8f5ef" letter-spacing="4" filter="url(#neon)">BUI TRUNG <tspan fill="#00C875">HIEU</tspan></text>
 
   <!-- animated role line with cursor -->
-  <text x="40" y="140" font-size="16" fill="#7ddbb4" letter-spacing="2">&gt; AI LECTURER · AI20K MENTOR · PLATFORM ARCHITECT<tspan fill="#00C875">▊</tspan>
+  <text x="40" y="140" font-size="16" fill="#7ddbb4" letter-spacing="2">&gt; AI LECTURER · VINUNI MENTOR · PLATFORM ARCHITECT<tspan fill="#00C875">▊</tspan>
     <animate attributeName="opacity" values="1;1;.75;1" dur="3s" repeatCount="indefinite"/>
   </text>
   <text x="42" y="159" font-size="10.5" fill="#3d8a6b" letter-spacing="2.5">// I TEACH WHAT I BUILD</text>
